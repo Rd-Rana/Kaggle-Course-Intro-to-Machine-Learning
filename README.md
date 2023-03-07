@@ -8,4 +8,4 @@ Date: 06-03-2023
 
 Date: 07-03-2023
 - Lesson-3: Your First Machine Learning Model => Building your first model. Hurray!
-- Lesson-4: Measure the performance of your model, so you can test and compare alternatives.
+- Lesson-4: Model Validation => Measure the performance of your model, so you can test and compare alternatives.
