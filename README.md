@@ -11,3 +11,6 @@ Date: 07-03-2023
 
 Date: 08-03-2023
 - Lesson-4: Model Validation => Measure the performance of your model, so you can test and compare alternatives.
+
+Date: 09-03-2023
+- Lesson-5: Underfitting and Overfitting => Fine-tune your model for better performance.
