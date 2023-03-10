@@ -14,3 +14,6 @@ Date: 08-03-2023
 
 Date: 09-03-2023
 - Lesson-5: Underfitting and Overfitting => Fine-tune your model for better performance.
+
+Date: 10-03-2023
+- Lesson-6: Random Forests => Using a more sophisticated machine learning algorithm.
