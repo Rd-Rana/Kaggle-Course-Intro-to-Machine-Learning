@@ -17,3 +17,4 @@ Date: 09-03-2023
 
 Date: 10-03-2023
 - Lesson-6: Random Forests => Using a more sophisticated machine learning algorithm.
+- Lesson-7: Machine Learning Competitions => Enter the world of machine learning competitions to keep improving and see your progress.
